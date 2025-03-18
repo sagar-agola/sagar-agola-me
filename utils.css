@@ -1,0 +1,40 @@
+.d-flex {
+  display: flex;
+}
+
+.justify-content-between {
+  justify-content: space-between;
+}
+
+.ml-2 {
+  margin-left: var(--spacing-2);
+}
+
+.mx-2 {
+  margin-left: var(--spacing-2);
+  margin-right: var(--spacing-2);
+}
+
+.mr-2 {
+  margin-right: var(--spacing-2);
+}
+
+.mb-2 {
+  margin-bottom: var(--spacing-2);
+}
+
+.mt-2 {
+  margin-top: var(--spacing-2);
+}
+
+.mb-3 {
+  margin-bottom: var(--spacing-3);
+}
+
+.text-accent {
+  color: var(--color-accent);
+}
+
+.text-muted {
+  color: var(--color-muted);
+}
